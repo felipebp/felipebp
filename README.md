@@ -1,5 +1,12 @@
-## Hi there 👋
+## Welcome to my space! 👋🚀
 
+Here you can find some piece what i am working now! Stay confortable to explore!
+
+🛠️ If you want some useful scripts to solve daily problems you can check: [script-tools](https://github.com/felipebp/Script-Utils)
+
+📊 Or maybe you would like to understand the power of implicit data in strategy decisions. So check that: [power_outage_analisys](https://github.com/felipebp/power_outage_analysis) & [monitoramento_neonatal](https://github.com/felipebp/monitoramento_neonatal)
+          
+  
 <!--
 **felipebp/felipebp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
